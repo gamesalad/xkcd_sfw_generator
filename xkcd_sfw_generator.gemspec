@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'xkcd_sfw_generator/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "xkcd-sfw-generator"
+  spec.name          = "xkcd_sfw_generator"
   spec.version       = XkcdSfwGenerator::VERSION
   spec.authors       = ["Ethan Garofolo"]
   spec.email         = ["ethan@bigohstudios.com"]
