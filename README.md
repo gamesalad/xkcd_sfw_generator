@@ -19,7 +19,7 @@ To just get a single password:
 To get an object suitable for creating multiple passwords (and not incur the cost of loading the dictionary each time: 
 
 ```ruby
-generator = XkcdSfwGenerator.new
+generator = XkcdSfwGenerator::Generator.new
 generator.generate(2)
 ```
 
@@ -31,7 +31,7 @@ For the instance approach you give it an instance of Random (or any class with t
 
 ```ruby
 randomizer = Random.new(3)
-generator = XkcdSfwGenerator.new(randomizer)
+generator = XkcdSfwGenerator::Generator.new(randomizer)
 generator.generate(2)
 ```
 
