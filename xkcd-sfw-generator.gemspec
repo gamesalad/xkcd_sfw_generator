@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/bigohstudios/xkcd-sfw-generator"
   spec.license       = "MIT"
 
-  spec.files         = ['xkcd_sfw_generator.rb']
+  spec.files         = ['lib/xkcd_sfw_generator.rb']
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
