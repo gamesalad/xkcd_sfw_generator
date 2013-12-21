@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ethan@bigohstudios.com"]
   spec.description   = %q{An XKCD-inspired phrase generator.}
   spec.summary       = %q{There are number of these, but the let's just say that the wordlists include some possibilities you probably don't want to send to your customers.}
-  spec.homepage      = "https://github.com/bigohstudios/xkcd-sfw-generator"
+  spec.homepage      = "https://github.com/bigohstudios/xkcd_sfw_generator"
   spec.license       = "MIT"
 
   spec.files         = ['lib/xkcd_sfw_generator.rb', 'lib/xkcd_sfw_generator/version.rb', 'lib/data/words.txt']
