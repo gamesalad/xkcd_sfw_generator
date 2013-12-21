@@ -12,7 +12,7 @@ or via Gemfile
 
 ## Usage
 
-To just get a single password:
+To just get a single phrase:
 
 `XkcdSfwGenerator.generate(2) # => horse chair`
 
