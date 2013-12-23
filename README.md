@@ -4,11 +4,11 @@ This is a little phrase generator suitable for generating temporary passwords.  
 
 ## Installation
 
-`gem install xkcd-sfw-generator`
+`gem install xkcd_sfw_generator`
 
 or via Gemfile
 
-`gem xkcd-sfw-generator`
+`gem xkcd_sfw_generator`
 
 ## Usage
 
