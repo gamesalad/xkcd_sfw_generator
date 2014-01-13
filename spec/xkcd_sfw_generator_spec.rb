@@ -15,6 +15,11 @@ describe XkcdSfwGenerator do
     end
   end
 
+  it "should support capitalizing the words from the hlper" do
+    @phrase = XkcdSfwGenerator.generate(3,nil,true)
+    /[[:upper:]]/.match(@phrase).should be_true
+  end
+
   it "should handle 0 as a word length" do 
     @phrase = XkcdSfwGenerator.generate(0)
 
@@ -24,11 +29,16 @@ describe XkcdSfwGenerator do
   context "Having a generator" do
     before(:each) do 
       @generator = XkcdSfwGenerator::Generator.new
-      @phrase = @generator.generate(3)
     end
 
     it "should not have any spaces" do
+      @phrase = @generator.generate(3)
       @phrase.split(' ').length.should eq(1)
+    end
+
+    it "should support capitalizing the words" do
+      @phrase = @generator.generate(3,true)
+      /[[:upper:]]/.match(@phrase).should be_true
     end
   end
 
