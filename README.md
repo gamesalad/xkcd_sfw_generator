@@ -35,6 +35,24 @@ generator = XkcdSfwGenerator::Generator.new(randomizer)
 generator.generate(2)
 ```
 
+### Capitalizing the words
+
+You can capitalize the first letter of each word in the phrase.
+
+For the helper
+
+```ruby
+XkcdSfwGenerator.generate(2,nil,true) # nil is for the seed
+```
+
+or when getting an instance of the generator
+
+```ruby
+generator = XkcdSfwGenerator::Generator.new
+generator.generate(2,true)
+```
+
+
 ## Tests
 
 we even have those!  Using Rspec:
