@@ -1,4 +1,4 @@
-# xkcd-sfw-generator
+# xkcd_sfw_generator
 
 This is a little phrase generator suitable for generating temporary passwords.  You probably don't want the nuclear launch button protected by these passwords.
 
