@@ -14,9 +14,9 @@ or via Gemfile
 
 To just get a single phrase:
 
-`XkcdSfwGenerator.generate(2) # => horse chair`
+`XkcdSfwGenerator.generate(2) # => "horsechair"`
 
-To get an object suitable for creating multiple passwords (and not incur the cost of loading the dictionary each time: 
+To get an object suitable for creating multiple passwords (and not incur the cost of loading the dictionary each time): 
 
 ```ruby
 generator = XkcdSfwGenerator::Generator.new
