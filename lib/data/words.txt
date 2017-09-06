@@ -4,7 +4,6 @@ aboard
 about
 above
 accept
-accident
 according
 account
 accurate
@@ -24,7 +23,6 @@ adult
 adventure
 advice
 affect
-afraid
 after
 afternoon
 again
@@ -37,7 +35,6 @@ aid
 air
 airplane
 alike
-alive
 all
 allow
 almost
@@ -53,7 +50,6 @@ among
 amount
 ancient
 angle
-angry
 animal
 announced
 another
@@ -90,7 +86,6 @@ at
 ate
 atmosphere
 atom
-atomic
 attached
 attack
 attempt
@@ -112,7 +107,6 @@ balloon
 band
 bank
 bar
-bare
 bark
 barn
 base
@@ -170,24 +164,20 @@ blanket
 blew
 blind
 block
-blood
 blow
 blue
 board
 boat
 body
-bone
 book
 border
 born
 both
 bottle
-bottom
 bound
 bow
 bowl
 box
-boy
 brain
 branch
 brass
@@ -205,8 +195,6 @@ brief
 bright
 bring
 broad
-broke
-broken
 brother
 brought
 brown
@@ -215,19 +203,16 @@ buffalo
 build
 building
 built
-buried
 burn
 burst
 bus
 bush
 business
 busy
-but
 butter
 buy
 by
 cabin
-cage
 cake
 call
 calm
@@ -240,7 +225,6 @@ cannot
 cap
 capital
 captain
-captured
 car
 carbon
 card
@@ -279,7 +263,6 @@ chart
 check
 cheese
 chemical
-chest
 chicken
 chief
 child
@@ -288,14 +271,12 @@ choice
 choose
 chose
 chosen
-church
 circle
 circus
 citizen
 city
 class
 classroom
-claws
 clay
 clean
 clear
@@ -339,7 +320,6 @@ complex
 composed
 composition
 compound
-concerned
 condition
 congress
 connected
@@ -381,9 +361,7 @@ create
 creature
 crew
 crop
-cross
 crowd
-cry
 cup
 curious
 current
@@ -422,8 +400,6 @@ did
 differ
 difference
 different
-difficult
-difficulty
 dig
 dinner
 direct
@@ -435,7 +411,6 @@ discover
 discovery
 discuss
 discussion
-disease
 dish
 distance
 distant
@@ -506,7 +481,6 @@ eleven
 else
 empty
 end
-enemy
 energy
 engine
 engineer
@@ -520,7 +494,6 @@ equal
 equally
 equator
 equipment
-escape
 especially
 essential
 establish
@@ -563,11 +536,9 @@ facing
 fact
 factor
 factory
-failed
 fair
 fairly
 fall
-fallen
 familiar
 family
 famous
@@ -580,7 +551,6 @@ fastened
 faster
 father
 favorite
-fear
 feathers
 feature
 fed
@@ -598,8 +568,6 @@ fierce
 fifteen
 fifth
 fifty
-fight
-fighting
 figure
 fill
 film
@@ -610,7 +578,6 @@ fine
 finest
 finger
 finish
-fire
 fireplace
 firm
 first
@@ -647,7 +614,6 @@ fort
 forth
 forty
 forward
-fought
 found
 four
 fourth
@@ -659,7 +625,6 @@ frequently
 fresh
 friend
 friendly
-frighten
 frog
 from
 front
@@ -679,8 +644,6 @@ gain
 game
 garage
 garden
-gas
-gasoline
 gate
 gather
 gave
@@ -692,7 +655,6 @@ get
 getting
 giant
 gift
-girl
 give
 given
 giving
@@ -708,7 +670,6 @@ good
 goose
 got
 government
-grabbed
 grade
 gradually
 grain
@@ -743,7 +704,6 @@ hall
 hand
 handle
 handsome
-hang
 happen
 happened
 happily
@@ -794,7 +754,6 @@ honor
 hope
 horn
 horse
-hospital
 hot
 hour
 house
@@ -803,25 +762,21 @@ however
 huge
 human
 hundred
-hung
 hungry
 hunt
 hunter
 hurried
 hurry
-hurt
 husband
 ice
 idea
 identity
 if
-ill
 image
 imagine
 immediately
 importance
 important
-impossible
 improve
 in
 inch
@@ -873,13 +828,11 @@ kids
 kind
 kitchen
 knew
-knife
 know
 knowledge
 known
 label
 labor
-lack
 laid
 lake
 lamp
@@ -937,9 +890,6 @@ long
 longer
 look
 loose
-lose
-loss
-lost
 lot
 loud
 love
@@ -949,7 +899,6 @@ lower
 luck
 lucky
 lunch
-lungs
 lying
 machine
 machinery
@@ -971,9 +920,7 @@ many
 map
 mark
 market
-married
 mass
-massage
 master
 material
 mathematics
@@ -992,8 +939,6 @@ meet
 melted
 member
 memory
-men
-mental
 merely
 met
 metal
@@ -1012,7 +957,6 @@ minute
 mirror
 missing
 mission
-mistake
 mix
 mixture
 model
@@ -1064,7 +1008,6 @@ neck
 needed
 needle
 needs
-negative
 neighbor
 neighborhood
 nervous
@@ -1095,7 +1038,6 @@ noun
 now
 number
 numeral
-nuts
 object
 observe
 obtain
@@ -1147,7 +1089,6 @@ pack
 package
 page
 paid
-pain
 paint
 pair
 palace
@@ -1226,7 +1167,6 @@ pole
 pond
 pony
 pool
-poor
 popular
 population
 porch
@@ -1249,7 +1189,6 @@ prepare
 present
 president
 press
-pressure
 pretty
 prevent
 previous
@@ -1314,7 +1253,6 @@ reader
 ready
 real
 realize
-rear
 reason
 recall
 receive
@@ -1324,7 +1262,6 @@ recognize
 record
 red
 refer
-refused
 region
 regular
 related
@@ -1366,9 +1303,7 @@ roll
 roof
 room
 root
-rope
 rose
-rough
 round
 route
 row
@@ -1379,7 +1314,6 @@ ruler
 run
 running
 rush
-sad
 saddle
 safe
 safety
@@ -1399,7 +1333,6 @@ saved
 saw
 say
 scale
-scared
 scene
 school
 science
@@ -1429,7 +1362,6 @@ sent
 sentence
 separate
 series
-serious
 serve
 service
 sets
@@ -1462,14 +1394,12 @@ shop
 shore
 short
 shorter
-shot
 should
 shoulder
 shout
 show
 shown
 shut
-sick
 sides
 sight
 sign
@@ -1497,7 +1427,6 @@ skill
 skin
 sky
 slabs
-slave
 sleep
 slept
 slide
@@ -1513,7 +1442,6 @@ smaller
 smallest
 smell
 smile
-smoke
 smooth
 snake
 snow
@@ -1554,7 +1482,6 @@ speed
 spell
 spend
 spent
-spider
 spin
 spirit
 spite
@@ -1586,24 +1513,20 @@ stick
 stiff
 still
 stock
-stomach
 stone
 stood
 stop
 stopped
 store
-storm
 story
 stove
 straight
 strange
-stranger
 straw
 stream
 street
 strength
 stretch
-strike
 string
 strip
 strong
@@ -1664,7 +1587,6 @@ tea
 teach
 teacher
 team
-tears
 teeth
 telephone
 television
@@ -1673,7 +1595,6 @@ temperature
 ten
 tent
 term
-terrible
 test
 than
 thank
@@ -1702,7 +1623,6 @@ thousand
 thread
 three
 threw
-throat
 through
 throughout
 throw
@@ -1734,7 +1654,6 @@ took
 tool
 top
 topic
-torn
 total
 touch
 toward
@@ -1824,12 +1743,10 @@ warm
 warn
 was
 wash
-waste
 watch
 water
 wave
 way
-weak
 wealth
 wear
 weather
@@ -1881,7 +1798,6 @@ with
 within
 without
 wolf
-women
 won
 wonder
 wonderful
@@ -1893,9 +1809,6 @@ wore
 work
 worker
 world
-worried
-worry
-worse
 worth
 would
 wrapped
@@ -1903,7 +1816,6 @@ write
 writer
 writing
 written
-wrong
 wrote
 yard
 year
